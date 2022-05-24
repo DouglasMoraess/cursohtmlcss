@@ -1,0 +1,116 @@
+
+@font-face {
+    font-family:'dimis'  ; 
+    src: url('fontes/dimis.ttf.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+    
+}
+
+
+
+@font-face {
+    font-family:'square' ;
+    src: url(fontes/square.ttf.ttf) format('truetype');
+}
+
+
+
+body{
+
+    background-color: #83eea8;
+padding: 10px;
+margin-left: 250px;
+margin-right: 250px;
+
+}
+
+
+#principal{
+    margin: 10px;
+color: white;
+background-color: #1A5C38;
+    font-family: dimis;
+    text-align: center;
+    
+}
+
+#inicio{
+    background-color: #1A5C38;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+
+}
+
+main{
+
+    background-color: white;
+    box-shadow: -3px -2px 13px black;
+}
+
+.temas {
+color: #1A5C38;
+    font-family: 'square';
+    margin-left: 20px;
+
+    
+}
+
+.temas2 {
+box-shadow: 3px 3px 3px rgb(21, 21, 9);
+  
+}
+
+p{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-size: large;
+    
+}
+
+
+footer{
+    
+    
+    background-color: #67947b;
+    
+    color: rgb(1, 1, 1);
+    text-align: center;
+    padding: 10px;
+    font-family: 'dimis';
+}
+
+
+span{
+    color: #1A5C38;
+   font-size: 20px;
+}
+
+
+
+a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+
+    padding: 0;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+
+
+
+.tabela{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3dd481;
+   
+    margin-left: 20px;
+   margin-right: 20px;
+    border-radius: 8px;
+}
