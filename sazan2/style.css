@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+:root{
+
+    --cor01:#006B2D;
+    --cor02:#025928;
+    --cor03:#7CA68B;
+    --cor04:#5FA62D;
+    --cor05:#CBCC00;
+
+
+    
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    background-color: #025928;
+    
+
+}
+
+header{
+    margin: auto;
+    background-color: #5FA62D;
+    
+
+}
+
+h1.titulo{
+    padding-top: 2px;
+    color: white;
+    text-shadow: #000 -3px -2px 3px;
+
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    box-shadow:inset 1px 6px 4px 0px #CBCC00;
+}
+    
+    
+.telefone{
+    padding-bottom: 20px;
+    text-align: center;
+    color: #CBCC00;
+    font-weight: bolder;
+    font-family: 'Raleway', sans-serif;
+    text-shadow: #000 -3px -2px 3px;
+
+}
+
+a , menu{
+    
+    padding: 15px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    
+
+
+}
+
+a:hover{
+    text-transform: uppercase;
+
+}
+
+
+main{
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 1px 1px;
+    box-shadow: 0px 2px 11px 1px #eee;
+    height: 80%;
+
+
+}
+
+h1{
+    margin: auto;
+    color: #006B2D;
+    text-shadow: #000 -3px -2px 3px;
+    padding: 15px;
+    text-align: center;
+}
+
+
+p{
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5;
+    font-style: oblique;
+
+}
+
+
+div.video{
+    margin: auto;
+        background-color: white;
+        box-shadow: 0px 2px 11px 1px #eee;
+        width: 83%;
+        height: 320px;
+        text-align: center;
+    
+   
+    
+}
+
+div.video >iframe{
+     top: 5%;
+    width: 50%;
+     height: 100%;
+
+}
+
+.imagen{
+    margin: 10px;
+    margin-left: 100px;
+    width: 300px;
+    height: 350px;
+    padding: 0;
+
+}
+
+
+
+footer , h2{
+    padding: 10px;
+    margin: auto;
+    background-color: #5FA62D;
+    color: white;
+    text-align: center;
+    font-family:'Raleway', sans-serif; 
+
+}
