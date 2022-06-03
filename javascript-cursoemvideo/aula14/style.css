@@ -12,7 +12,7 @@ background-color: rgba(22, 22, 239, 0.746);
 #container {
     margin: auto;
     width: 500px;
-    height: 250px;
+    height: 450px;
     background-color: white;
     border-radius: 4px 0px 4px;
     box-shadow: 7px -3px 20px 0px black;
@@ -40,3 +40,5 @@ p{
     box-shadow: 1px 1px 1px black;
 
 }
+
+
