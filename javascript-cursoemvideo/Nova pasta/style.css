@@ -9,6 +9,16 @@ body{
 
 }
 
+h1{
+
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px black;
+
+}
+
+
+
 #container{
     margin: auto;
     width:300px;
@@ -25,5 +35,13 @@ body{
 input{
     padding: 10px;
     box-shadow: 1px 1px 1px black;
+
+}
+
+
+button{
+
+    background-color: rgba(245, 19, 19, 0.35);
+    font-weight: bold;
 
 }
