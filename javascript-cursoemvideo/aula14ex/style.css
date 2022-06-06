@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+
+body{
+    margin: auto;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+section{
+
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: -2px 3px 20px 0px black;
+
+}
+
+
+input{
+    
+    margin: 15px;
+    text-align: center;
+
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+#setlab{
+    margin: 18px;
+
+}
+
+
+p {
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+footer{
+    text-align: center;
+    font-weight: bolder;
+    color: wheat;
+
+}
